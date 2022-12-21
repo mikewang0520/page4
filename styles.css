@@ -38,6 +38,7 @@
 }
 
 .eating {
+  cursor: url("enter.png"), auto;
   position: absolute;
   top: 280px;
   left: 350px;
